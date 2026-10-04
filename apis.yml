@@ -41,7 +41,6 @@ apis:
   - name: GeoApi
     description: "French geographical data"
     humanURL: https://api.gouv.fr/api/geoapi.html
-    baseURL: https://api.gouv.fr/api/geoapi.html
     tags:
       - Geocoding
     properties:
